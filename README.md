@@ -6,7 +6,7 @@ Welcome to the **Rock Paper Scissors** game! This timeless classic is brought to
 
 - Game:
 
-<img src="![screenshots/gui_version.png](https://github.com/SimeonZhelinski/RockPaperScissorsSU.Simo/blob/main/screenshots/game.png)" alt="GUI Version" width="400"/>
+<img src="https://github.com/SimeonZhelinski/RockPaperScissorsSU.Simo/blob/main/screenshots/game.png" alt="GUI Version" width="400"/>
 
 - Results:
 
