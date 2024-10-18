@@ -10,11 +10,11 @@ Welcome to the **Rock Paper Scissors** game! This timeless classic is brought to
 
 - Results:
 
-![](https://github.com/SimeonZhelinski/RockPaperScissorsSU.Simo/blob/main/screenshots/result.png)
+<img src="https://github.com/SimeonZhelinski/RockPaperScissorsSU.Simo/blob/main/screenshots/result.png" alt="GUI Version" width="400"/>
 
 - Statistics:
 
-![](https://github.com/SimeonZhelinski/RockPaperScissorsSU.Simo/blob/main/screenshots/stats.png)
+<img src="https://github.com/SimeonZhelinski/RockPaperScissorsSU.Simo/blob/main/screenshots/stats.png" alt="GUI Version" width="400"/>
 
 ## 🎉 Features
 
