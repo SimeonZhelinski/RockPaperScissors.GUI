@@ -6,15 +6,15 @@ Welcome to the **Rock Paper Scissors** game! This timeless classic is brought to
 
 - Game:
 
-![](https://github.com/SimeonZhelinski/wss_app/blob/main/app_screenshots/index.png)
+![](https://github.com/SimeonZhelinski/RockPaperScissorsSU.Simo/blob/main/screenshots/game.png)
 
 - Results:
 
-![](https://github.com/SimeonZhelinski/wss_app/blob/main/app_screenshots/sign%20up.png)
+![](https://github.com/SimeonZhelinski/RockPaperScissorsSU.Simo/blob/main/screenshots/result.png)
 
 - Statistics:
 
-![](https://github.com/SimeonZhelinski/wss_app/blob/main/app_screenshots/sign%20up.png)
+![](https://github.com/SimeonZhelinski/RockPaperScissorsSU.Simo/blob/main/screenshots/stats.png)
 
 ## 🎉 Features
 
